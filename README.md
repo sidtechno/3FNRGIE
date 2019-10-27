@@ -3,7 +3,7 @@
 **WORDPRESS**
 
 user: admin  
-pass: admin3f 
+pass: (NuCZ*0lk@EXLxK7NvBDa@SD 
 
 **SMARTERASP.NET**
 
