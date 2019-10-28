@@ -5,6 +5,9 @@
 user: admin  
 pass: (NuCZ*0lk@EXLxK7NvBDa@SD 
 
+user: Admin-2
+pass: zdYMH9hjSoHHKmq55PqZ)^PG
+
 **SMARTERASP.NET**
 
 user: triathlon3fnrgie  
