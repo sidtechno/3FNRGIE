@@ -8,6 +8,9 @@ pass: (NuCZ*0lk@EXLxK7NvBDa@SD
 user: Admin-2
 pass: zdYMH9hjSoHHKmq55PqZ)^PG
 
+user: admin-3Fnrgie
+pass: S92S@&YWRZqE*fkf&zmc@@Yf
+
 **SMARTERASP.NET**
 
 user: triathlon3fnrgie  
