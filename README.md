@@ -27,13 +27,19 @@ Pin: 0833
 
 **Email :**
 
-mail.triathlon3fnrgie.com  
+https://webmail.hostinger.com
 
-user: postmaster@triathlon3fnrgie.com  
-pass: Triathlon3F@  
+user: info@triathlon3fnrgie.com
+pass: Triathlon3F@
 
-user: info@triathlon3fnrgie.com  
-pass: Triathlon3F@  
+
+~~mail.triathlon3fnrgie.com  ~~
+
+~~user: postmaster@triathlon3fnrgie.com  
+pass: Triathlon3F@  ~~
+
+~~user: info@triathlon3fnrgie.com  
+pass: Triathlon3F@  ~~
 
 **GMAIL**
 
